@@ -15,3 +15,61 @@
       A Form specializing in Limit attacks.
 
       {:color #F0F00080}Drive points consumed: 4{:reset}
+# COMMON TEXT
+# Sardonyx Ring
+- id: 0x3A17
+  en: Steven Universe
+# Moon Amulet
+- id: 0x3A2D
+  en: Moon Man
+# Star Charm
+- id: 0x3A2F
+  en: Star Platinum
+# Full Bloom
+- id: 0x3A49
+  en: Blooming Sauce
+# Full Bloom+
+- id: 0x3A4D
+  en: Blooming Onion
+# Draw Ring
+- id: 0x3A4B
+  en: Banjo Kazooie
+# Divine Bandana
+- id: 0x3A51
+  en: Goku Black
+# Shock Charm
+- id: 0x3A5D
+  en: Static Shook
+# Shock Charm+
+- id: 0x3A5F
+  en: Static Shooketh
+# Chaos Anklet
+- id: 0x3A8B
+  en: Chaos Control
+# Grand Ribbon
+- id: 0x3A61
+  en: Grand DAD
+# Gull Wing
+- id: 0x3E38
+  en: Wing Stop
+# Decisive Pumpkin
+- id: 0x3E40
+  en: Pumpkin Hill
+# Sleeping Lion
+- id: 0x3E42
+  en: Good Night
+# Fenrir
+- id: 0x3E4C
+  en: Zaddy Issues
+# FAKE
+- id: 0x0ADC
+  en: I found you! FAKEr!
+# Munny Pouch 1
+- id: 0x3B09
+  en: Stimmy
+# Munny Pouch 2
+- id: 0x48FA
+  en: Stimmy
+# Baseball Charm
+- id: 0x3B7A
+  en: BIRD UP

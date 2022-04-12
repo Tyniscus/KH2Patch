@@ -172,15 +172,30 @@
 # Magnet Burst
 - id: 0x4E76
   en: Ecstasy Boom
+# Auto Limit
+- id: 0x4E8B
+  en: Push it to the Limit
+# Auto Master
+- id: 0x3BCE
+  en: Super Saiyan
 # Scan
 - id: 0x1F73
   en: I can smell you
 # Aerial Recovery
 - id: 0x2858
   en: Watch this tech?
+# Combo Master
+- id: 0x4E28
+  en: Schizophrenia
 # Combo Plus
 - id: 0x2F63
   en: Upsize Combo
+# Air Combo Boost
+- id: 0x3BD6
+  en: Forward Aerial
+# Reaction Boost
+- id: 0x3BD8
+  en: Politics
 # Finishing Plus
 - id: 0x3BDA
   en: >-
@@ -188,12 +203,33 @@
 # Berserk Charge
 - id: 0x3BDE
   en: Infinite
+# Damage Drive
+- id: 0x3BE0
+  en: Emotional Damage
+# Form Boost
+- id: 0x3BE4
+  en: Prolonged Pigment
+# Leaf Bracer
+- id: 0x3BEC
+  en: I-Frames
+# Magic Lock-On
+- id: 0x3BEE
+  en: Aimbot
+# Draw
+- id: 0x3BF2
+  en: Gimme!
 # Lucky Lucky
 - id: 0x3BF6
   en: Biden's Election
 # Drive Converter
 - id: 0x4E2A
   en: Extra Mustard
+# Fire Boost
+- id: 0x3BF8
+  en: Burn to the GROUND
+# Blizzard Boost
+- id: 0x3BFA
+  en: I'm thirsty
 # Item Boost
 - id: 0x3BFE
   en: Secret Formula

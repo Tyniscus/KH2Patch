@@ -16,6 +16,36 @@
 
       {:color #F0F00080}Drive points consumed: 4{:reset}
 # COMMON TEXT
+# EQUIPPABLE
+# Potion
+- id: 0x02F8
+  en: Orange Crush
+# Hi-Potion
+- id: 0x02FA
+  en: Welch's Grape Soda
+# Ether
+- id: 0x02FC
+  en: McDonald's Sprite
+# Elixir
+- id: 0x02FE
+  en: Baconator
+# Megalixir
+- id: 0x0304
+  en: Chick-fil-A Nuggets
+# CONSUMABLE
+# Drive Recovery
+- id: 0x39D9
+  en: Speed Wagon
+# High Drive Recovery
+- id: 0x39DB
+  en: I can't drive 55
+# Power Boost
+- id: 0x39DD
+  en: Hammer Up
+# AP Boost
+- id: 0x39E3
+  en: 5-hour ENERGY
+# ACCESSORIES
 # Sardonyx Ring
 - id: 0x3A17
   en: Steven Universe
@@ -34,6 +64,7 @@
 # Draw Ring
 - id: 0x3A4B
   en: Banjo Kazooie
+# ARMOR
 # Divine Bandana
 - id: 0x3A51
   en: Goku Black
@@ -49,6 +80,7 @@
 # Grand Ribbon
 - id: 0x3A61
   en: Grand DAD
+# KEYBLADES
 # Gull Wing
 - id: 0x3E38
   en: Wing Stop
@@ -64,39 +96,22 @@
 # FAKE
 - id: 0x0ADC
   en: I found you! FAKEr!
-# Munny Pouch 1
+# KEY ITEMS
+# Proof of Connection
+- id: 0x4FAD
+  en: Yarite's Hat
+# Proof of Nonexistence
+- id: 0x4FAF
+  en: KJ's Scarf
+# Proof of Peace
+- id: 0x4FB1
+  en: Tyne's Tie
+# Munny Pouch
 - id: 0x3B09
   en: Stimmy
-# Munny Pouch 2
+# Munny Pouch
 - id: 0x48FA
-  en: Stimmy
-# Baseball Charm
-- id: 0x3B7A
-  en: BIRD UP
-# Potion
-- id: 0x02F8
-  en: Orange Crush
-# Hi-Potion
-- id: 0x02FA
-  en: Welch's Grape Soda
-# Ether
-- id: 0x02FC
-  en: McDonald's Sprite
-# Elixir
-- id: 0x02FE
-  en: Baconator
-# Megalixir
-- id: 0x0304
-  en: Chick-fil-A Nuggets
-# Drive Recovery
-- id: 0x39D9
-  en: Speed Wagon
-# High Drive Recovery
-- id: 0x39DB
-  en: I can't drive 55
-# Power Boost
-- id: 0x39DD
-  en: Hammer Up
+  en: Stimmy Sequel
 # Crystal Orb
 - id: 0x3B0B
   en: The crystals!
@@ -106,6 +121,11 @@
 # Hades Cup Trophy
 - id: 0x4C0E
   en: James Woods
+# CHARMS
+# Baseball Charm
+- id: 0x3B7A
+  en: BIRD UP
+# ABILITIES
 # Guard
 - id: 0x066C
   en: BLOCK
@@ -138,7 +158,7 @@
   en: Die
 # Explosion
 - id: 0x3993
-  en: Goated
+  en: Absolutely Goated
 # Aerial Sweep
 - id: 0x3999
   en: Up B
@@ -156,11 +176,11 @@
   en: Watch this tech?
 # Combo Plus
 - id: 0x2F63
-  en: Large Combo
+  en: Upsize Combo
 # Finishing Plus
 - id: 0x3BDA
   en: >-
-      {:width 68}And then kill you again{:reset}
+      {:width 70}And then kill you again{:reset}
 # Berserk Charge
 - id: 0x3BDE
   en: Infinite
@@ -194,12 +214,6 @@
 # Once More
 - id: 0x3C08
   en: Withstand Combo
-# Proof of Connection
-- id: 0x4FAD
-  en: Yarite's Hat
-# Proof of Nonexistence
-- id: 0x4FAF
-  en: KJ's Scarf
-# Proof of Peace
-- id: 0x4FB1
-  en: Tyne's Tie
+# No Experience
+- id: 0x3BF0
+  en: Fuck You

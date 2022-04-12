@@ -1,0 +1,13 @@
+title: Tyniscus Patch
+description: Replaces various elements in KH2 (intended for friends). Meant to be used with OpenKH's mod manager.
+assets:
+# Text Elements
+- name: msg/us/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en

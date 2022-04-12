@@ -180,7 +180,7 @@
 # Finishing Plus
 - id: 0x3BDA
   en: >-
-      {:width 120}And then kill you again{:reset}
+      {:width 100}And then kill you again{:reset}
 # Berserk Charge
 - id: 0x3BDE
   en: Infinite

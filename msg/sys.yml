@@ -73,3 +73,133 @@
 # Baseball Charm
 - id: 0x3B7A
   en: BIRD UP
+# Potion
+- id: 0x02F8
+  en: Orange Crush
+# Hi-Potion
+- id: 0x02FA
+  en: Welch's Grape Soda
+# Ether
+- id: 0x02FC
+  en: McDonald's Sprite
+# Elixir
+- id: 0x02FE
+  en: Baconator
+# Megalixir
+- id: 0x0304
+  en: Chick-fil-A Nuggets
+# Drive Recovery
+- id: 0x39D9
+  en: Speed Wagon
+# High Drive Recovery
+- id: 0x39DB
+  en: I can't drive 55
+# Power Boost
+- id: 0x39DD
+  en: Hammer Up
+# Crystal Orb
+- id: 0x3B0B
+  en: The crystals!
+# Promise Charm
+- id: 0x467B
+  en: I'm cool cat bad!
+# Hades Cup Trophy
+- id: 0x4C0E
+  en: James Woods
+# Guard
+- id: 0x066C
+  en: BLOCK
+# Upper Slash
+- id: 0x1E60
+  en: Uppercut
+# Horizontal Slash
+- id: 0x399D
+  en: Card Swipe
+# Finishing Leap
+- id: 0x3995
+  en: Down Smash
+# Retaliating Slash
+- id: 0x39A1
+  en: Combo Breaker
+# Slapshot
+- id: 0x398B
+  en: Frame One Jab
+# Dodge Slash
+- id: 0x398D
+  en: Disgusting
+# Slide Dash
+- id: 0x398F
+  en: Slide into DMs
+# Vicinity Break
+- id: 0x4E78
+  en: Around the World
+# Guard Break
+- id: 0x3991
+  en: Die
+# Explosion
+- id: 0x3993
+  en: Goated
+# Aerial Sweep
+- id: 0x3999
+  en: Up B
+# Aerial Spiral
+- id: 0x399B
+  en: Barrel Roll?
+# Magnet Burst
+- id: 0x4E76
+  en: Ecstasy Boom
+# Scan
+- id: 0x1F73
+  en: I can smell you
+# Aerial Recovery
+- id: 0x2858
+  en: Watch this tech?
+# Combo Plus
+- id: 0x2F63
+  en: Large Combo
+# Finishing Plus
+- id: 0x3BDA
+  en: >-
+      {:width 68}And then kill you again{:reset}
+# Berserk Charge
+- id: 0x3BDE
+  en: Infinite
+# Lucky Lucky
+- id: 0x3BF6
+  en: Biden's Election
+# Drive Converter
+- id: 0x4E2A
+  en: Extra Mustard
+# Item Boost
+- id: 0x3BFE
+  en: Secret Formula
+# MP Haste
+- id: 0x3C02
+  en: Dasani Scent
+# MP Hastera
+- id: 0x3C12
+  en: Gatorade Pad
+# MP Hastega
+- id: 0x3C14
+  en: Muscle Milk Injection
+# Defender
+- id: 0x3C04
+  en: Headgear
+# Damage Control
+- id: 0x4E2E
+  en: Spine Replacement
+# Second Chance
+- id: 0x3C06
+  en: GEICO Insurance
+# Once More
+- id: 0x3C08
+  en: Withstand Combo
+# Proof of Connection
+- id: 0x4FAD
+  en: Yarite's Hat
+# Proof of Nonexistence
+- id: 0x4FAF
+  en: KJ's Scarf
+# Proof of Peace
+- id: 0x4FB1
+  en: Tyne's Tie

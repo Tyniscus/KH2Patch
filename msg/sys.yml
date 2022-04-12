@@ -19,19 +19,23 @@
 # EQUIPPABLE
 # Potion
 - id: 0x02F8
-  en: {:width 95}Orange Crush{:reset}
+  en: >-
+      {:width 95}Orange Crush{:reset}
 # Hi-Potion
 - id: 0x02FA
-  en: {:width 65}Welch's Grape Soda{:reset}
+  en: >-
+      {:width 65}Welch's Grape Soda{:reset}
 # Ether
 - id: 0x02FC
-  en: {:width 75}McDonald's Sprite{:reset}
+  en: >-
+      {:width 75}McDonald's Sprite{:reset}
 # Elixir
 - id: 0x02FE
   en: Baconator
 # Megalixir
 - id: 0x0304
-  en: {:width 65}Chick-fil-A Nuggets{:reset}
+  en: >-
+      {:width 65}Chick-fil-A Nuggets{:reset}
 # CONSUMABLE
 # Drive Recovery
 - id: 0x39D9

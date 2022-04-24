@@ -50,15 +50,27 @@
 - id: 0x39E3
   en: 5-hour ENERGY
 # ACCESSORIES
+# Skill Ring
+- id: 0x3A31
+  en: Skill Issue
 # Sardonyx Ring
 - id: 0x3A17
   en: Steven Universe
+# Silver Ring
+- id: 0x3A21
+  en: SilverX2426CP
 # Moon Amulet
 - id: 0x3A2D
   en: Moon Man
 # Star Charm
 - id: 0x3A2F
   en: Star Platinum
+# Shadow Archive
+- id: 0x3A43
+  en: Mobile Knowledge
+# Shadow Archive+
+- id: 0x3A45
+  en: Lightweight Lexicon
 # Full Bloom
 - id: 0x3A49
   en: Blooming Sauce
@@ -101,6 +113,12 @@
 - id: 0x0ADC
   en: I found you! FAKEr!
 # KEY ITEMS
+# Dummy 09
+- id: 0x3D0E
+  en: You stupid
+# Dummy 10
+- id: 0x3D10
+  en: No I not
 # Proof of Connection
 - id: 0x4FAD
   en: Yarite's Hat
@@ -119,6 +137,22 @@
 # Crystal Orb
 - id: 0x3B0B
   en: The crystals!
+# "The Struggle" Trophy
+- id: 0x4C55
+  en: The Struggle is Real
+# Letter
+- id: 0x3B13
+  en: Dear Mario...
+# Naminé's Sketches
+- id: 0x3B15
+  en: My comms are open :)
+# Olympus Stone
+- id: 0x3B19
+  en: Basic Dollar Coin
+# Auron's Statue
+- id: 0x3B1B
+  en: >-
+      {:width 70}Captain America Action Figure{:reset}
 # Promise Charm
 - id: 0x467B
   en: I'm cool cat bad!
@@ -129,6 +163,10 @@
 # Baseball Charm
 - id: 0x3B7A
   en: BIRD UP
+# SPELL ELEMENTS
+# Fire Element
+- id: 0x0634
+  en: It's kinda hot
 # ABILITIES
 # Guard
 - id: 0x066C

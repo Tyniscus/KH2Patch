@@ -32,11 +32,18 @@
 # Elixir
 - id: 0x02FE
   en: Baconator
+# Mega-Potion
+- id: 0x0300
+  en: >-
+      {:width 90}2L Orange Crush{:reset}
 # Megalixir
 - id: 0x0304
   en: >-
       {:width 65}Chick-fil-A Nuggets{:reset}
 # CONSUMABLE
+# Tent
+- id: 0x05AC
+  en: Let's go camping!
 # Drive Recovery
 - id: 0x39D9
   en: Speed Wagon
@@ -46,6 +53,12 @@
 # Power Boost
 - id: 0x39DD
   en: Hammer Up
+# Magic Boost
+- id: 0x39DF
+  en: ooOOEEOOOooo
+# Defense Boost
+- id: 0x39E1
+  en: Hard On
 # AP Boost
 - id: 0x39E3
   en: 5-hour ENERGY
@@ -53,9 +66,16 @@
 # Skill Ring
 - id: 0x3A31
   en: Skill Issue
+# Skillful Ring
+- id: 0x3A33
+  en: Skill Less Issue
 # Sardonyx Ring
 - id: 0x3A17
   en: Steven Universe
+# Garnet Ring
+- id: 0x3A1D
+  en: >-
+      {:width 90}This is Garnet. Back Together.{:reset}
 # Silver Ring
 - id: 0x3A21
   en: SilverX2426CP
@@ -80,6 +100,9 @@
 # Draw Ring
 - id: 0x3A4B
   en: Banjo Kazooie
+# Lucky Ring
+- id: 0x3A47
+  en: Don't get political
 # ARMOR
 # Divine Bandana
 - id: 0x3A51
@@ -97,6 +120,22 @@
 - id: 0x3A61
   en: Grand DAD
 # KEYBLADES
+# Oathkeeper
+- id: 0x05C4
+  en: MeatLoafKeeper
+# Hidden Dragon
+- id: 0x3DFC
+  en: Dragon Ball Z
+# Follow the Wind
+- id: 0x3E32
+  en: >-
+      {:width 90}Sonic and the Black Knight{:reset}
+# Circle of Life
+- id: 0x3E34
+  en: Furry
+# Photon Debugger
+- id: 0x3E36
+  en: Data Blade
 # Gull Wing
 - id: 0x3E38
   en: Wing Stop
@@ -109,6 +148,12 @@
 # Fenrir
 - id: 0x3E4C
   en: Zaddy Issues
+# Ultima Weapon
+- id: 0x3E4E
+  en: Is it good this time?
+# Winner's Proof
+- id: 0x4E37
+  en: Proof of Sike
 # FAKE
 - id: 0x0ADC
   en: I found you! FAKEr!
@@ -140,12 +185,18 @@
 # "The Struggle" Trophy
 - id: 0x4C55
   en: The Struggle is Real
+# Poster
+- id: 0x3B11
+  en: Absolutely Not
 # Letter
 - id: 0x3B13
   en: Dear Mario...
 # Naminé's Sketches
 - id: 0x3B15
   en: My comms are open :)
+# Membership Card
+- id: 0x3B17
+  en: Z-Word Pass
 # Olympus Stone
 - id: 0x3B19
   en: Basic Dollar Coin
@@ -153,6 +204,21 @@
 - id: 0x3B1B
   en: >-
       {:width 70}Captain America Action Figure{:reset}
+# Cursed Megallion
+- id: 0x3B1D
+  en: Cringe Medallion
+# Present
+- id: 0x3B1F
+  en: Realer Present
+# Decoy Presents
+- id: 0x3B21
+  en: Faker Presents
+# Ice Cream
+- id: 0x3B23
+  en: Stone Cold Ice Cream
+# Picture
+- id: 0x3B25
+  en: Prom Photo
 # Promise Charm
 - id: 0x467B
   en: I'm cool cat bad!
@@ -167,6 +233,62 @@
 # Fire Element
 - id: 0x0634
   en: It's kinda hot
+# SPELL NAMES
+# Fire
+- id: 0x0508
+  en: Cwispy
+# Fira
+- id: 0x0509
+  en: X-tra Toasty
+# Firaga
+- id: 0x050A
+  en: >-
+      {:width 60}You telling me a shrimp fried this rice?{:reset}
+# Blizzard
+- id: 0x050E
+  en: Blizzy
+# Blizzara
+- id: 0x050F
+  en: Deep Freeze
+# Blizzaga
+- id: 0x0510
+  en: Let It Go
+# Thunder
+- id: 0x050B
+  en: Carpet Shock
+# Thundara
+- id: 0x050C
+  en: Static Boom
+# Thundaga
+- id: 0x050D
+  en: Zeus
+# Cure
+- id: 0x0511
+  en: Heal
+# Cura
+- id: 0x0512
+  en: Feel Good
+# Curaga
+- id: 0x0513
+  en: Feels Great
+# Magnet
+- id: 0x0514
+  en: C'mere?
+# Magnera
+- id: 0x0515
+  en: Come Closer
+# Magnega
+- id: 0x0516
+  en: GRAVITY SQUEEZE
+# Reflect
+- id: 0x0517
+  en: No U
+# Reflera
+- id: 0x0518
+  en: Reverse Card
+# Reflega
+- id: 0x0519
+  en: L+Ratio+Cope
 # ABILITIES
 # Guard
 - id: 0x066C
@@ -189,6 +311,9 @@
 # Dodge Slash
 - id: 0x398D
   en: Disgusting
+# Flash Step
+- id: 0x4E72
+  en: 2M!!
 # Slide Dash
 - id: 0x398F
   en: Slide into DMs
@@ -207,6 +332,9 @@
 # Aerial Spiral
 - id: 0x399B
   en: Barrel Roll?
+# Aerial Finish
+- id: 0x399F
+  en: Flashy Aerial
 # Magnet Burst
 - id: 0x4E76
   en: Ecstasy Boom
@@ -216,6 +344,36 @@
 # Auto Master
 - id: 0x3BCE
   en: Super Saiyan
+# Trinity Limit
+- id: 0x3335
+  en: FINAL FLAAASH!!
+# High Jump LV1
+- id: 0x064C
+  en: Nike's
+# High Jump LV2
+- id: 0x064E
+  en: Air Force 1s
+# High Jump LV3
+- id: 0x0650
+  en: Jordans
+# High Jump MAX
+- id: 0x0652
+  en: Moon Ball Boots
+# Dodge Roll LV 1
+- id: 0x4E83
+  en: Dodge
+# Dodge Roll LV 2
+- id: 0x4E85
+  en: Cya
+# Dodge Roll LV 3
+- id: 0x4E87
+  en: WEAVE
+# Dodge Roll MAX
+- id: 0x4E89
+  en: Dark Souls
+# Glide MAX
+- id: 0x066A
+  en: I wanna fly high
 # Scan
 - id: 0x1F73
   en: I can smell you

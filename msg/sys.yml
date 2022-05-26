@@ -79,6 +79,12 @@
 # Silver Ring
 - id: 0x3A21
   en: SilverX2426CP
+# Orichalcum Ring
+- id: 0x3A29
+  en: Oral Ring
+# Medal
+- id: 0x3A3F
+  en: Cheese
 # Moon Amulet
 - id: 0x3A2D
   en: Moon Man
